@@ -79,3 +79,11 @@ h1{
     grid-column: 2/4;
     grid-row: 1;
 }
+
+.social{
+    margin: 10px 0;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
